@@ -1,7 +1,7 @@
 import os
 import os.path
 
-# Basically importing shit.
+# Importing.
 
 try:
 
