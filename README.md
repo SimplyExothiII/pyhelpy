@@ -28,6 +28,8 @@ or
 
 Functions: File, Folder, etc.
 
+If for example you want the File function, just input File
+
 ## Running
 
 Linux:
