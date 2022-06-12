@@ -35,7 +35,6 @@ try:
         if password1 == f.read():
             f.close()
             f = open("username.txt", "r")
-            print("[i] Ready to go,", f.read())
         else:
             print("[i] Password incorrect. Ending script...")
             os._exit(0)
@@ -53,7 +52,7 @@ try:
         f.close()
 
         f = open("username.txt", "r")
-        print("Hello,", f.read() + ".", "Youre ready to go.")
+
 
     # It creates a folder in a directory you specify.
 
@@ -189,6 +188,11 @@ try:
             os._exit(0)
 
 # Catching any errors that may occur and ending the script.
+
+
+
+
+
 
 except:
     print("[i] An error was caused. Ending script...")
