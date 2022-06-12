@@ -1,6 +1,9 @@
 # pyhelpy
 Python assistant.
 
+## WARNING
+Remember to also install the jokes folder, and put it into the pyhelpy folder!!!
+
 ## Credits
 Made by iv1x/SimplyExothiII, 2022.
 
