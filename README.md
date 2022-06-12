@@ -24,6 +24,10 @@ What function do you wish to use?
 
 (File, Folder etc.)
 
+or
+
+Functions: File, Folder, etc.
+
 ## Running
 
 Linux:
