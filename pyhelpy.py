@@ -30,7 +30,7 @@ try:
 
     else:
         print("[i] Doesnt seem you have created an account.")
-        Accountnew = Account(input("Insert username: "), input("Insert password: "))
+        Accountnew = Account(input("[+] Insert username: "), input("[+] Insert password: "))
 
         f = open("username.txt", "w")
         f.write(Accountnew.username)
@@ -55,6 +55,7 @@ try:
         print("[i] Folder created in:", directory1 + foldername)
 
     # Creates a file in a directory you specify.
+
     def File():
         print("[?] Enter the file name.")
         filename1 = input("[+]: ")
@@ -79,7 +80,9 @@ try:
                 print("[i] File created.")
             else:
                 print("[i] File created.")
+
     # Deletes itself. 
+
     def Self_destruct():
         print("[?] Are you sure?")
         ans2 = input("[+] Y/N: ")
@@ -89,12 +92,19 @@ try:
             if ans3 == "Y":
                 print("[i] Yay :D")
                 os.remove("pyhelpy.py")
+                pyhelpy = 0
+                os._exit(0)
             else:
                 print("[i] Aw :C")
                 os.remove("pyhelpy.py")
+                pyhelpy = 0
+                os._exit(0)
+                
     
     pyhelpy = 1
+
     # Asking the user what function they want to use, then it runs the function.
+
     f.close()
     while pyhelpy > 0:   
         f = open("username.txt", "r")
@@ -111,7 +121,9 @@ try:
             f = open("username.txt", "r")
             print("[i] Bye,", f.read() + ".")
             os._exit(0)
+
 # Catching any errors that may occur and ending the script.
+
 except:
     print("[i] An error was caused. Ending script...")
     os._exit(0)
