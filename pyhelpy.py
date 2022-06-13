@@ -3,6 +3,7 @@ import os
 import os.path
 import random
 
+print("[Hi] Version 1.1.0
 absFilePath = os.path.abspath(__file__)
 path, filename = os.path.split(absFilePath)
 print("[Hi] Script file path is {}, filename is {}".format(path, filename))
