@@ -3,7 +3,7 @@ import os
 import os.path
 import random
 
-print("[Hi] Version 1.1.0
+print("[Hi] Version 1.1.0")
 absFilePath = os.path.abspath(__file__)
 path, filename = os.path.split(absFilePath)
 print("[Hi] Script file path is {}, filename is {}".format(path, filename))
@@ -129,7 +129,7 @@ try:
                 f.close()
                 ans9 = input("[+] Exit? Y/N: ")
         else:
-            print()
+            print("Error was caused")
         
     # It asks the user how their day was, and if they say it was bad, it asks if they want to hear a
     # joke.
