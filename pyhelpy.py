@@ -62,7 +62,7 @@ try:
         print("[i] You have a password, but no username.")
         time.sleep(2)
         f = open("password.txt")
-        Usernamenew = Account(input("[+] Insert desired username: "))
+        Usernamenew = Account(input("[+] Insert desired username: "), f.read())
         f.close()
 
         f = open("username.txt", "w")
