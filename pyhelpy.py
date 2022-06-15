@@ -43,7 +43,6 @@ try:
         if password1 == f.read():
             f.close()
             f = open("username.txt", "r")
-            print("[i] Ready to go,", f.read())
         else:
             print("[i] Password incorrect. Ending script...")
             time.sleep(4)
