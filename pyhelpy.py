@@ -52,8 +52,6 @@ try:
         f.write(Accountnew.password)
         f.close()
 
-        f = open("username.txt", "r")
-
 
     # It creates a folder in a directory you specify.
 
