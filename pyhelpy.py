@@ -176,11 +176,17 @@ try:
             else:
                 npath = path + "/jokes/joke"
                 jokena = random.choice('abcdefghi')
-                f = open(npath + jokena + ".txt")
-                print(f.read())
-                f.close()
-                time.sleep(2)
-                ans9 = input("[+] Exit? Y/N: ")
+                fullthing = npath + jokena
+                if os.path.isfile(fullthing + ".txt") == True:
+                    f = open(fullthing + ".txt")
+                    print(f.read())
+                    f.close()
+                    time.sleep(4)
+                    ans9 = input("[+] Exit? Y/N: ")
+                    time.sleep(2)
+                else:
+                    print("[Hi]", fullthing + ".txt not found.")
+                    time.sleep(2)
         else:
             print("[i] No jokes folder.")
             time.sleep(2)
@@ -235,11 +241,11 @@ try:
         f = open("username.txt", "r")
         print("[?] Hello,", f.read() + ".", "How can i assist you?")
         time.sleep(2)
-        print("[i] Functions: Folder, Self_destruct, File, Exit, Joke, Talk.")
+        print("[i] Functions: Folder, Self destruct, File, Exit, Joke, Talk.")
         ans4 = input("[+] Choose function: ")
         if ans4 == "Folder":
             Folder()
-        elif ans4 == "Self_destruct":
+        elif ans4 == "Self destruct":
             Self_destruct()
         elif ans4 == "File":
             File()
