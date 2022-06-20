@@ -6,7 +6,7 @@ import time
 
 print("[i] Made by iv1x/SimplyExothiII 2022")
 time.sleep(1)
-print("[Hi] ver 1.1.1")
+print("[Hi] ver 1.2.0")
 time.sleep(1)
 absFilePath = os.path.abspath(__file__)
 path, filename = os.path.split(absFilePath)
@@ -232,6 +232,14 @@ try:
         else:
             print("[i] Your answer was not entered correctly. Remember that answers are case sensitive.")
             time.sleep(4)
+
+    def FunFact():
+        time.sleep(2)
+        print("[i] Im sorry. But currently there is no fun fact to be shown.")
+        time.sleep(4)
+        print("[i] If you want to give me a fun fact to add here, reply to the tweet that says")
+        print("[i] Day 4 of #Python")
+        time.sleep(6)
 
     pyhelpy = 1
     # Asking the user what function they want to use, then it runs the function.
