@@ -6,7 +6,7 @@ import time
 
 print("[i] Made by iv1x/SimplyExothiII 2022")
 time.sleep(1)
-print("[Hi] ver 1.2.0")
+print("[Hi] ver 1.2.1")
 time.sleep(1)
 absFilePath = os.path.abspath(__file__)
 path, filename = os.path.split(absFilePath)
@@ -235,10 +235,12 @@ try:
 
     def FunFact():
         time.sleep(2)
-        print("[i] Im sorry. But currently there is no fun fact to be shown.")
+        print("[i] I made this project for fun, but now i want to make it a proffessional one.")
         time.sleep(4)
         print("[i] If you want to give me a fun fact to add here, reply to the tweet that says")
         print("[i] Day 4 of #Python")
+        print("[i] Or just message me about it on twitter")
+        print("[i] Of course, i will credit you.")
         time.sleep(6)
 
     pyhelpy = 1
