@@ -1,8 +1,8 @@
 # pyhelpy
 Python assistant.
 
-## WARNING
-Remember to also install the jokes folder, and put it into the pyhelpy folder otherwise the joke function wont work!!!
+## Installing
+Install any version you want, in the releases tab. Every detail will be there.
 
 ## Credits
 Made by iv1x/SimplyExothiII, 2022.
