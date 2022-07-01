@@ -1,11 +1,5 @@
-# pyhelpy
-Python assistant.
-
-## Installing
-Install any version you want, from branches. Every detail will be there.
-
-## Credits
-Made by iv1x/SimplyExothiII, 2022.
+## WARNING
+REMEMBER TO INSTALL THE JOKES FOLDER, OTHERWISE THE JOKE FUNCTION WONT WORK.
 
 ## Text signs
 [Hi] stands for Help information, usually needed in issues. If you have an issue, add the info. If you need to you can censor the user name if there is.
