@@ -39,6 +39,8 @@ Its fine, doesnt cause any problems, just ignore it.
 
 And also, if you dont have python installed, after running python in cmd it will open up microsoft store with the python package.
 
+But if it doesnt, install it through microsoft store manually. Its called ``Python 3.10``
+
 ## Running
 After complete setup, you are able to run the main script.
 
