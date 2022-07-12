@@ -360,7 +360,7 @@ A small medium at large.""")
         if operatingsystem == "Linux":
             os.system("python3 pyhelpy.py")
         elif operatingsystem == "Windows":
-            os.system("py pyhelpy.py")
+            os.system("python pyhelpy.py")
         elif operatingsystem == "Darwin":
             os.system("python3 pyhelpy.py")
     if ans2 == "N":
