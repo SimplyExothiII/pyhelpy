@@ -27,11 +27,17 @@ If for example you want the File function, just input File
 ## Installing
 Git clone this repository, then run the ``setup.py`` file.
 
-On mac/linux:
+Afterwards, in any command terminal do:
 
-``python3 setup.py``
+``python3 setup.py`` or windows cmd ``python setup.py``
 
-On windows, check the [document](https://docs.python.org/3/faq/windows.html#how-do-i-run-a-python-program-under-windows)
+On windows, there can be much problems, such as these.
+
+![obraz](https://user-images.githubusercontent.com/94911537/178615218-07263ccd-c07e-4de5-aa5c-8ae68acc929b.png)
+
+Its fine, doesnt cause any problems, just ignore it.
+
+And also, if you dont have python installed, after running python in cmd it will open up microsoft store with the python package.
 
 ## Running
 After complete setup, you are able to run the main script.
