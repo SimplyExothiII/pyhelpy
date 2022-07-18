@@ -1,3 +1,6 @@
+### Pyhelpy
+version 1.2.2
+
 ## Text signs
 [Hi] stands for Help information, usually needed in issues. If you have an issue, add the info. If you need to you can censor things you want.
 
