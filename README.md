@@ -8,15 +8,9 @@ Afterwards, in any Linux/MacOS command terminal do:
 
 ``python3 setup.py`` or windows cmd ``python setup.py``
 
-On windows, there can be much problems, such as these.
+On windows, if you dont have python installed, after running python with the batch script, it will open up microsoft store with the python package.
 
-![obraz](https://user-images.githubusercontent.com/94911537/178615218-07263ccd-c07e-4de5-aa5c-8ae68acc929b.png)
-
-Its fine, doesnt cause any problems, just ignore it.
-
-And also, if you dont have python installed, after running python in cmd it will open up microsoft store with the python package.
-
-But if it doesnt, install it through microsoft store manually. Its called ``Python 3.10``
+But if it doesnt, install it through microsoft store manually, its called ``Python 3.10``, or do the recommended way which is installing latest stable python from the [original python website.](https://www.python.org/downloads/windows/)
 
 ## Running
 After complete setup, you are able to run the main script.
