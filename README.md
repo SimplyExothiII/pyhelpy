@@ -5,4 +5,8 @@ Python assistant.
 Install any version you want, from branches. Every detail will be there.
 
 ## Credits
-Made by iv1x/SimplyExothiII, 2022.
+### Author
+iv1x/SimplyExothiII
+
+### Helpers
+none.
