@@ -25,3 +25,6 @@ Its the same as installing, but instead of ``setup.py`` run ``pyhelpy-gui.py``
 
 ## Credits
 Made by iv1x/SimplyExothiII, 2022.
+
+### lil sneakpeek
+![image](https://user-images.githubusercontent.com/94911537/179430458-4d3ee9e9-1a45-46bb-b6fd-5d7c7034ec94.png)
