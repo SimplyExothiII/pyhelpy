@@ -1,6 +1,8 @@
 # Compatibility
 Stable on linux, windows will be tested tommorow. (22nd of july)
 
+v.2.0.0
+
 ## Installing
 Git clone this repository, then run the ``setup.py`` file.
 
