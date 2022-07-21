@@ -1,5 +1,5 @@
-# Information about this version
-I am currently working on it, so theres nothing to run right now. If there is something added, use the help from the information below.
+# Compatibility
+Stable on linux, windows will be tested tommorow. (22nd of july)
 
 ## Installing
 Git clone this repository, then run the ``setup.py`` file.
@@ -20,5 +20,5 @@ Its the same as installing, but instead of ``setup.py`` run ``pyhelpy-gui.py``
 ## Credits
 Made by iv1x/SimplyExothiII, 2022.
 
-### lil sneakpeek
-![image](https://user-images.githubusercontent.com/94911537/179430458-4d3ee9e9-1a45-46bb-b6fd-5d7c7034ec94.png)
+## Gallery
+N/A
