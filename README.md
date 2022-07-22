@@ -4,6 +4,14 @@ Stable on linux, windows will be tested tommorow. (22nd of july)
 v.2.0.0
 
 ## Installing
+First of all, you need to install appJar:
+
+``pip3 install appjar``
+
+Tkinter is installed on windows in default libraries, but if you dont have tk on Linux:
+
+run this with your favorite AUR helper if you are on an arch distribution ``AUR tk``
+
 Git clone this repository, then run the ``setup.py`` file.
 
 Afterwards, in any Linux/MacOS command terminal do:
