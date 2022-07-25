@@ -18,10 +18,6 @@ On windows, if you dont have python installed, after running python through cmd,
 
 But if it doesnt, install it through microsoft store manually, its called ``Python 3.10``, or do the recommended way which is installing latest stable python from the [original python website.](https://www.python.org/downloads/windows/)
 
-After complete setup, you are able to run the main script.
-
-Its the same as installing, but instead of ``setup.py`` run ``pyhelpy-gui.py``
-
 ## Credits
 Made by iv1x/SimplyExothiII, 2022.
 
