@@ -9,7 +9,7 @@ Tkinter is installed on windows in default libraries, but if you dont have tk on
 
 run this with your favorite AUR helper if you are on an arch distribution ``AUR tk``
 
-Then simply git clone the project to where you want it in.
+Then simply clone the project to where you want it in.
 
 ## Running
 ``python3 pyhelpy-gui``
