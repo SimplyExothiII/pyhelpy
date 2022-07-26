@@ -1,4 +1,5 @@
 # v.2.0.0
+Pyhelpy wont receive any more updates. This is the final version, unless there are some bugs that need to be fixed.
 
 ## Installing
 First of all, you need to install appJar:
